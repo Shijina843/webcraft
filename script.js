@@ -40,6 +40,6 @@ function printOutput() {
 
 }
 
-window.setInterval(printOutput, 2000);
+window.setInterval(printOutput, 1200);
 
 
